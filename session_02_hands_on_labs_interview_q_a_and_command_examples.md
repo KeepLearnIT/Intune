@@ -1,4 +1,4 @@
-# Session 02 – Hands-on Labs, Interview Q&A & Command Examples
+# Section 2: Linux Server Fundamentals & Secure Access Basics
 
 ---
 
